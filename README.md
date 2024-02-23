@@ -1,6 +1,7 @@
 # socket-io-suc-vat-github
-Tạo CSDL tên là chat
-Tạo bảng messages:
+**- Tạo CSDL tên là** ```chat```
+
+**- Tạo bảng messages:**
 ```sql
 CREATE TABLE `messages` (
   `id` int(11) NOT NULL,
